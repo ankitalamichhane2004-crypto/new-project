@@ -60,12 +60,12 @@
     </div>
     </div>
     </div>
-
+<!-- 
 
 
 <div class="whatapp">
   <img src="{{ asset('./images/whatsapp.png') }}" alt="">
-</div>
+</div> -->
 
 
 
