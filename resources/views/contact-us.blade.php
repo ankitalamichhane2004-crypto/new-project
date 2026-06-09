@@ -13,7 +13,6 @@
             </div>
 
 
-
             
             <div class="col-lg-6 col-md-12">
      
@@ -44,7 +43,7 @@
             <input type="password"  placeholder="Enter your Password"   value="" id="password" >
          </div>
          <p id="errormsg-password"></p>
-        
+<!--         
          <div>
              <label for="">Message</label>
              <textarea name="" id="message" rows="6"></textarea>
@@ -54,7 +53,7 @@
            <button>Submit</button>
           </form>
 
-         
+          -->
     </section>
     </div>
     </div>
