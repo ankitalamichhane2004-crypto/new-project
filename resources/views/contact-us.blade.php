@@ -18,12 +18,12 @@
      
     <div class="form-section">
         <form action="" class="contact-form" onsubmit="return validateform()">
-
+<!-- 
          <div>
             <label for="name">Name</label>
             <input type="text"  placeholder="Enter your name"  name="name"  id="name" >
          </div>
-         <p id="errormsg-name"></p>
+         <p id="errormsg-name"></p> -->
          
 
          <div>
