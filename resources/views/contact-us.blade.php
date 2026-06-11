@@ -26,17 +26,17 @@
          <p id="errormsg-name"></p> -->
          
 
-         <div>
+         <!-- <div>
             <label for="email">Email</label>
             <input type=""  placeholder="Enter your email"   value=""  id="email">
          </div>
          <p id="errormsg-email"></p>
 
-          <div>
-            <label for="number">Number</label>
+          <div> -->
+            <!-- <label for="number">Number</label>
             <input type="number"  placeholder="Enter your number"   value="" id="number" >
          </div>
-         <p id="errormsg-number"></p>
+         <p id="errormsg-number"></p> -->
 
           <div>
             <label for="password">Password</label>
